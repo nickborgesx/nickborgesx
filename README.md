@@ -12,9 +12,10 @@
 
   ![PowerBI](https://img.shields.io/badge/power_bi-%2523F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
   ![MetaBase](https://img.shields.io/badge/metabase-%2523509EE3.svg?style=for-the-badge&logo=metabase&logoColor=white)
+  ![Pentaho](https://img.shields.io/badge/pentaho-%2523FF6C37.svg?style=for-the-badge&logo=pentaho&logoColor=white)
 
 **Development Tools:**
 
   ![Git](https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![VisualStudio](https://img.shields.io/badge/Visual%2520Studio%2520Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![VisualStudio](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Github](https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white)
